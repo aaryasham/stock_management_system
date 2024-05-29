@@ -1,0 +1,17 @@
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock management system project.csproj.AssemblyReference.cache
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.Form1.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.LoginForm.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.Properties.Resources.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock management system project.csproj.GenerateResource.cache
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock management system project.csproj.CoreCompileInputs.cache
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\bin\Debug\Stock management system project.exe.config
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\bin\Debug\Stock management system project.exe
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\bin\Debug\Stock management system project.pdb
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock management system project.exe
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock management system project.pdb
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.product_addition.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.ProductUpdateDelete.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.StockUpdate.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.Reports.AllProDetails.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.Reports.TransactionDetails.resources
+C:\Users\Aaryash\source\repos\Stock management system project\Stock management system project\obj\Debug\Stock_management_system_project.changepassword.resources
